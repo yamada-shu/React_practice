@@ -1,0 +1,30 @@
+.undone {
+  width: 400px;
+  padding: 0.5em 1em;
+  margin: 10px auto;
+  color: #d88f8f;
+  background: #fff8e8;
+  border-left: solid 10px #ffc06e;
+}
+
+.done p {
+  display: none;
+}
+
+.contents{
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  font-weight: bold;
+  color: #6091d3;/*文字色*/
+  background: #FFF;
+  border: solid 3px #6091d3;/*線*/
+  border-radius: 10px;/*角の丸み*/
+  text-align: center;
+  vertical-align: middle;
+}
+
+.contents_title{
+  text-align: center;
+  vertical-align: middle;
+  border-bottom: solid 3px #6091d3;/*線*/
+}
